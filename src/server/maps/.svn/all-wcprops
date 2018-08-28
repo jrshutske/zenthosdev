@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ZenthosDev/!svn/ver/8/src/server/maps
+END
+MapleReactorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ZenthosDev/!svn/ver/8/src/server/maps/MapleReactorFactory.java
+END
+AbstractMapleMapObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/AbstractMapleMapObject.java
+END
+MapleMapEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/MapleMapEffect.java
+END
+AbstractAnimatedMapleMapObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/AbstractAnimatedMapleMapObject.java
+END
+MapleMapItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/MapleMapItem.java
+END
+BossMapMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/BossMapMonitor.java
+END
+MapleGenericPortal.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ZenthosDev/!svn/ver/3/src/server/maps/MapleGenericPortal.java
+END
+MapleFootholdTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/MapleFootholdTree.java
+END
+MapleMapPortal.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/MapleMapPortal.java
+END
+MapleReactor.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/MapleReactor.java
+END
+PlayerNPCs.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ZenthosDev/!svn/ver/6/src/server/maps/PlayerNPCs.java
+END
+MapleDoor.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/MapleDoor.java
+END
+MapleMapObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/MapleMapObject.java
+END
+FakeCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/FakeCharacter.java
+END
+MapleMapFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ZenthosDev/!svn/ver/5/src/server/maps/MapleMapFactory.java
+END
+MapleMapObjectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/MapleMapObjectType.java
+END
+MapleTVEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/MapleTVEffect.java
+END
+AnimatedMapleMapObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/AnimatedMapleMapObject.java
+END
+FourthJobQuestsPortalHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ZenthosDev/!svn/ver/8/src/server/maps/FourthJobQuestsPortalHandler.java
+END
+MapleMist.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/MapleMist.java
+END
+SummonMovementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/SummonMovementType.java
+END
+MapleMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ZenthosDev/!svn/ver/8/src/server/maps/MapleMap.java
+END
+MapleFoothold.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/MapleFoothold.java
+END
+MapleMapTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/MapleMapTimer.java
+END
+MapleReactorStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ZenthosDev/!svn/ver/5/src/server/maps/MapleReactorStats.java
+END
+MapleSummon.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/MapleSummon.java
+END
+SavedLocationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ZenthosDev/!svn/ver/1/src/server/maps/SavedLocationType.java
+END

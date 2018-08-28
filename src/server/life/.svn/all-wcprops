@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ZenthosDev/!svn/ver/8/src/server/life
+END
+MapleNPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ZenthosDev/!svn/ver/1/src/server/life/MapleNPC.java
+END
+SpawnPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ZenthosDev/!svn/ver/8/src/server/life/SpawnPoint.java
+END
+MobSkillFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ZenthosDev/!svn/ver/8/src/server/life/MobSkillFactory.java
+END
+MapleMonster.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ZenthosDev/!svn/ver/8/src/server/life/MapleMonster.java
+END
+MobAttackInfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ZenthosDev/!svn/ver/8/src/server/life/MobAttackInfoFactory.java
+END
+MobSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ZenthosDev/!svn/ver/5/src/server/life/MobSkill.java
+END
+MapleNPCStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ZenthosDev/!svn/ver/1/src/server/life/MapleNPCStats.java
+END
+ElementalEffectiveness.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ZenthosDev/!svn/ver/1/src/server/life/ElementalEffectiveness.java
+END
+MobAttackInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ZenthosDev/!svn/ver/1/src/server/life/MobAttackInfo.java
+END
+MapleMonsterStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ZenthosDev/!svn/ver/8/src/server/life/MapleMonsterStats.java
+END
+MapleLifeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ZenthosDev/!svn/ver/8/src/server/life/MapleLifeFactory.java
+END
+MapleMonsterInformationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ZenthosDev/!svn/ver/8/src/server/life/MapleMonsterInformationProvider.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ZenthosDev/!svn/ver/1/src/server/life/Element.java
+END
+AbstractLoadedMapleLife.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ZenthosDev/!svn/ver/1/src/server/life/AbstractLoadedMapleLife.java
+END
+MonsterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ZenthosDev/!svn/ver/8/src/server/life/MonsterListener.java
+END

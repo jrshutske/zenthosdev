@@ -1,0 +1,52 @@
+10
+
+dir
+8
+http://svn6.assembla.com/svn/ZenthosDev/src
+http://svn6.assembla.com/svn/ZenthosDev
+
+
+
+2011-04-14T05:39:33.366927Z
+8
+XiuzSu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e58bdf92-7d05-40cf-9488-dfb31f63d66e
+
+tools
+dir
+
+scripting
+dir
+
+database
+dir
+
+net
+dir
+
+server
+dir
+
+provider
+dir
+
+constants
+dir
+
+client
+dir
+

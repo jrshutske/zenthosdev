@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ZenthosDev/!svn/ver/5/src/net/world/remote
+END
+WorldLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ZenthosDev/!svn/ver/3/src/net/world/remote/WorldLocation.java
+END
+WorldRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ZenthosDev/!svn/ver/5/src/net/world/remote/WorldRegistry.java
+END
+WorldChannelInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ZenthosDev/!svn/ver/5/src/net/world/remote/WorldChannelInterface.java
+END
+WorldLoginInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ZenthosDev/!svn/ver/5/src/net/world/remote/WorldLoginInterface.java
+END
+WorldChannelCommonOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ZenthosDev/!svn/ver/5/src/net/world/remote/WorldChannelCommonOperations.java
+END

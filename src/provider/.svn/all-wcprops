@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ZenthosDev/!svn/ver/8/src/provider
+END
+MapleDataDirectoryEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ZenthosDev/!svn/ver/1/src/provider/MapleDataDirectoryEntry.java
+END
+MapleDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ZenthosDev/!svn/ver/1/src/provider/MapleDataProvider.java
+END
+MapleDataEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ZenthosDev/!svn/ver/1/src/provider/MapleDataEntity.java
+END
+MapleDataTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ZenthosDev/!svn/ver/5/src/provider/MapleDataTool.java
+END
+MapleData.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ZenthosDev/!svn/ver/1/src/provider/MapleData.java
+END
+MapleCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ZenthosDev/!svn/ver/1/src/provider/MapleCanvas.java
+END
+MapleDataEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ZenthosDev/!svn/ver/1/src/provider/MapleDataEntry.java
+END
+MapleDataFileEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ZenthosDev/!svn/ver/1/src/provider/MapleDataFileEntry.java
+END
+MapleWZProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ZenthosDev/!svn/ver/8/src/provider/MapleWZProvider.java
+END
+MapleDataProviderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ZenthosDev/!svn/ver/5/src/provider/MapleDataProviderFactory.java
+END

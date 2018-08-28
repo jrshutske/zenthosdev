@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/ZenthosDev/!svn/ver/8/dist
+END
+ZenthosDev.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ZenthosDev/!svn/ver/8/dist/ZenthosDev.jar
+END
+slf4j-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ZenthosDev/!svn/ver/1/dist/slf4j-api.jar
+END
+mina-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ZenthosDev/!svn/ver/1/dist/mina-core.jar
+END
+slf4j-jdk14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ZenthosDev/!svn/ver/1/dist/slf4j-jdk14.jar
+END
+mysql-connector-java-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ZenthosDev/!svn/ver/1/dist/mysql-connector-java-bin.jar
+END

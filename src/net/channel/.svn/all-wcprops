@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ZenthosDev/!svn/ver/8/src/net/channel
+END
+ChannelServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ZenthosDev/!svn/ver/8/src/net/channel/ChannelServer.java
+END
+PlayerStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ZenthosDev/!svn/ver/8/src/net/channel/PlayerStorage.java
+END
+ChannelServerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ZenthosDev/!svn/ver/1/src/net/channel/ChannelServerMBean.java
+END
+ChannelWorldInterfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ZenthosDev/!svn/ver/5/src/net/channel/ChannelWorldInterfaceImpl.java
+END
+IPlayerStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ZenthosDev/!svn/ver/5/src/net/channel/IPlayerStorage.java
+END

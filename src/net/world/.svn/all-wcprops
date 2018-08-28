@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ZenthosDev/!svn/ver/8/src/net/world
+END
+PartyOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ZenthosDev/!svn/ver/1/src/net/world/PartyOperation.java
+END
+WorldRegistryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ZenthosDev/!svn/ver/8/src/net/world/WorldRegistryImpl.java
+END
+WorldChannelInterfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ZenthosDev/!svn/ver/8/src/net/world/WorldChannelInterfaceImpl.java
+END
+WorldLoginInterfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ZenthosDev/!svn/ver/5/src/net/world/WorldLoginInterfaceImpl.java
+END
+MapleMessengerCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ZenthosDev/!svn/ver/5/src/net/world/MapleMessengerCharacter.java
+END
+PlayerBuffStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ZenthosDev/!svn/ver/5/src/net/world/PlayerBuffStorage.java
+END
+MapleMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ZenthosDev/!svn/ver/5/src/net/world/MapleMessenger.java
+END
+PlayerBuffValueHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ZenthosDev/!svn/ver/5/src/net/world/PlayerBuffValueHolder.java
+END
+MaplePartyCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ZenthosDev/!svn/ver/2/src/net/world/MaplePartyCharacter.java
+END
+PlayerCoolDownValueHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ZenthosDev/!svn/ver/5/src/net/world/PlayerCoolDownValueHolder.java
+END
+CharacterIdChannelPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ZenthosDev/!svn/ver/3/src/net/world/CharacterIdChannelPair.java
+END
+MapleParty.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ZenthosDev/!svn/ver/2/src/net/world/MapleParty.java
+END
+WorldServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ZenthosDev/!svn/ver/7/src/net/world/WorldServer.java
+END

@@ -1,0 +1,154 @@
+============================================================================
+-------------------------------- ZenthosDev --------------------------------
+============================================================================
+
+(Legend)
+[SQL clean up] : This means the SQL was cleared from anything that was not needed.
+[Source clean up] : This means that many pages from the source where coded better or many functions removed.
+[Minor Source clean up] : This means that a few functions where removed.
+[Updated] (Info) : A big update (Usually related to the version) was done.
+[Personalized] (Info) : The source was made more unique.
+[Changed] (Info) : Something that was changed and needed to be pointed out.
+[Added] (Info) : New functions added to the source.
+[Removed] (Info) : The deletion of useless or non-important functions.
+[Fixed] (Info) : When any reported bug or problem was fixed.
+[Improved] (Info) : An improvement that impacts the performance of this source.
+
+(Version 1.0)
+Clean XiuzSource v62 3.4.
+
+(Version 1.1)
+[SQL clean up].
+[Source clean up].
+[Updated] XiuzSource v62 3.4 to v75.
+[Personalized] The source to 'ZenthosDev' name.
+[Changed] .bat files display.
+[Changed] world.properties to server.properties.
+[Changed] The database.
+[Added] New jobs.
+[Added] New v75 packets.
+[Added] New options in server.properties.
+[Removed] Other .properties files.
+[Removed] AfkTime system.
+[Removed] Donator system.
+[Removed] Command logs.
+[Improved] The way and times files are read.
+
+(Version 1.2)
+[Source clean up].
+[Added] Cygnus skills.
+[Added] Cygnus skills for maxing.
+[Added] Complete character deletion.
+[Added] DB user name and password to server.pro.
+[Removed] Most of the pin system.
+[Removed] Old command system.
+[Removed] Error logging.
+[Fixed] Players information request.
+[Fixed] PvP monsters can die.
+[Fixed] 2 unclosed connections.
+[Fixed] Rankings.
+
+(Version 1.3)
+[Changed] Commands can be in any case.
+[Added] Player medals.
+[Added] Partially ItemEXP system.
+[Added] Reborn for Cygnus.
+[Added] New v75 NX items.
+[Added] Functions for alliance.
+[Added] Custom Anti-Cheat system.
+[Removed] Useless functions.
+[Removed] CheatTracker system.
+[Removed] CheatTracker logging.
+[Improved] CashShop.
+
+(Version 1.4)
+[Minor Source clean up].
+[Changed] Updated inventory SQL.
+[Changed] Using equipment constants.
+[Added] Client GM.
+
+(Version 1.5)
+[Source clean up].
+[Updated] ZenthosDev v75 1.4 to v83 1.5.
+[Changed] Some of the packets.
+[Changed] Most of the files.
+[Changed] Ranks to work for Arans.
+[Added] New jobs.
+[Added] New v83 packets.
+[Added] PIC system.
+[Added] Buddy list groups.
+[Added] MonsterBook.
+[Added] Anti-PE for chat.
+[Added] Anti-PE for guild.
+[Added] Server recommendation text to server.pro.
+[Added] Server recommendation world to server.pro.
+[Removed] PublicChatHandler.
+[Removed] Useless functions.
+[Removed] Useless files.
+[Removed] Send and Receive Ops.properties.
+[Removed] Guests feature.
+[Removed] The pin system.
+[Fixed] Multi-Worlds bug.
+[Improved] Organized the source.
+[Improved] Command system.
+[Improved] GeneralChat.
+
+(Version 1.6)
+[Minor Source clean up].
+[Changed] A few things from the SQL.
+[Changed] Some of the packets.
+[Changed] Some of the functions.
+[Changed] Some opCodes.
+[Added] CharSelectedHandler.
+[Added] RegisterPicHandler.
+[Removed] CreateCygnusHandler.
+[Removed] LoginRequiringNoOpHandler.
+[Fixed] Equipment disappearing.
+[Improved] Auto-Register.
+[Improved] CommandProcessor.
+
+(Version 1.7)
+[Minor Source clean up].
+[Changed] Auto-Register limit check from IP to MAC.
+[Changed] 3 Accounts limit auto-register per MAC.
+[Added] Some Aran skills.
+[Fixed] Aran leveling up system.
+[Fixed] Starting map.
+[Fixed] NPC D/C.
+[Improved] Login system.
+[Improved] Auto-Register.
+
+(Version 1.8)
+[SQL clean up]
+[Added] Aran to the reborn system.
+[Added] ServerConfig file.
+[Added] MapleWZProvider file.
+[Removed] Usage of the SQL for channels key.
+[Removed] Usage of the SQL for channel config.
+[Removed] Usage of the SQL for the login server.
+[Fixed] Distribution of AP.
+[Fixed] Heal HP/MP overtime.
+[Improved] The times and cache of the .wz files.
+[Improved] retrieveDropChances function.
+[Improved] ServerProperties function.
+
+============================================================================
+------------------------------ In-Development ------------------------------
+============================================================================
+
+-Decrease database usage.
+-New and improved PvP.
+-NPC's rebuilt.
+-Unique new way of saving/loading characters.
+
+============================================================================
+-------------------------------- Known Bugs --------------------------------
+============================================================================
+
+-Auto register not counting per MAC.
+-Can't use all Aran skills.
+-Fix a few skills.
+
+============================================================================
+-------------------------------- BY: XiuzSu --------------------------------
+============================================================================

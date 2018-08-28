@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ZenthosDev/!svn/ver/5/src/net/mina
+END
+MapleCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ZenthosDev/!svn/ver/1/src/net/mina/MapleCodecFactory.java
+END
+MaplePacketEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ZenthosDev/!svn/ver/5/src/net/mina/MaplePacketEncoder.java
+END
+MaplePacketDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ZenthosDev/!svn/ver/5/src/net/mina/MaplePacketDecoder.java
+END

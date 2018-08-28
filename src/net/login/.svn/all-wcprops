@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ZenthosDev/!svn/ver/8/src/net/login
+END
+LoginServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ZenthosDev/!svn/ver/8/src/net/login/LoginServer.java
+END
+LoginServerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ZenthosDev/!svn/ver/1/src/net/login/LoginServerMBean.java
+END
+LoginWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ZenthosDev/!svn/ver/8/src/net/login/LoginWorker.java
+END
+LoginWorldInterfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ZenthosDev/!svn/ver/1/src/net/login/LoginWorldInterfaceImpl.java
+END
+RankingWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ZenthosDev/!svn/ver/5/src/net/login/RankingWorker.java
+END

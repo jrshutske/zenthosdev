@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ZenthosDev/!svn/ver/6/src/net/handler
+END
+KeepAliveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ZenthosDev/!svn/ver/1/src/net/handler/KeepAliveHandler.java
+END
+NoOpHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ZenthosDev/!svn/ver/1/src/net/handler/NoOpHandler.java
+END

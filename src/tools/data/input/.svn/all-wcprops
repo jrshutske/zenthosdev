@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ZenthosDev/!svn/ver/5/src/tools/data/input
+END
+ByteInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ZenthosDev/!svn/ver/5/src/tools/data/input/ByteInputStream.java
+END
+LittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ZenthosDev/!svn/ver/5/src/tools/data/input/LittleEndianAccessor.java
+END
+ByteArrayByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ZenthosDev/!svn/ver/5/src/tools/data/input/ByteArrayByteStream.java
+END
+RandomAccessByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ZenthosDev/!svn/ver/5/src/tools/data/input/RandomAccessByteStream.java
+END
+SeekableInputStreamBytestream.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ZenthosDev/!svn/ver/5/src/tools/data/input/SeekableInputStreamBytestream.java
+END
+GenericSeekableLittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ZenthosDev/!svn/ver/5/src/tools/data/input/GenericSeekableLittleEndianAccessor.java
+END
+StreamUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ZenthosDev/!svn/ver/5/src/tools/data/input/StreamUtil.java
+END
+InputStreamByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ZenthosDev/!svn/ver/5/src/tools/data/input/InputStreamByteStream.java
+END
+SeekableLittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ZenthosDev/!svn/ver/5/src/tools/data/input/SeekableLittleEndianAccessor.java
+END
+GenericLittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ZenthosDev/!svn/ver/5/src/tools/data/input/GenericLittleEndianAccessor.java
+END

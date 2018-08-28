@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/ZenthosDev/!svn/ver/8/src/client
+END
+SkillMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ZenthosDev/!svn/ver/5/src/client/SkillMacro.java
+END
+RunnableWithResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ZenthosDev/!svn/ver/1/src/client/RunnableWithResult.java
+END
+MapleKeyBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ZenthosDev/!svn/ver/1/src/client/MapleKeyBinding.java
+END
+ExpTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ZenthosDev/!svn/ver/1/src/client/ExpTable.java
+END
+MaplePet.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ZenthosDev/!svn/ver/2/src/client/MaplePet.java
+END
+LoginCrypto.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ZenthosDev/!svn/ver/6/src/client/LoginCrypto.java
+END
+PetDataFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ZenthosDev/!svn/ver/8/src/client/PetDataFactory.java
+END
+MapleCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ZenthosDev/!svn/ver/8/src/client/MapleCharacter.java
+END
+MapleInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ZenthosDev/!svn/ver/4/src/client/MapleInventory.java
+END
+InventoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ZenthosDev/!svn/ver/4/src/client/InventoryException.java
+END
+MapleRing.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ZenthosDev/!svn/ver/1/src/client/MapleRing.java
+END
+Skill.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ZenthosDev/!svn/ver/7/src/client/Skill.java
+END
+MapleSkinColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ZenthosDev/!svn/ver/5/src/client/MapleSkinColor.java
+END
+Equip.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ZenthosDev/!svn/ver/3/src/client/Equip.java
+END
+MapleQuestStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ZenthosDev/!svn/ver/5/src/client/MapleQuestStatus.java
+END
+BuddylistEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ZenthosDev/!svn/ver/5/src/client/BuddylistEntry.java
+END
+ISkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ZenthosDev/!svn/ver/7/src/client/ISkill.java
+END
+MapleStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ZenthosDev/!svn/ver/5/src/client/MapleStat.java
+END
+IEquip.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ZenthosDev/!svn/ver/3/src/client/IEquip.java
+END
+CharacterNameAndId.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ZenthosDev/!svn/ver/5/src/client/CharacterNameAndId.java
+END
+InventoryContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ZenthosDev/!svn/ver/1/src/client/InventoryContainer.java
+END
+MonsterBook.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ZenthosDev/!svn/ver/5/src/client/MonsterBook.java
+END
+BuddyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ZenthosDev/!svn/ver/5/src/client/BuddyList.java
+END
+SkillFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ZenthosDev/!svn/ver/8/src/client/SkillFactory.java
+END
+IItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ZenthosDev/!svn/ver/1/src/client/IItem.java
+END
+MapleCharacterUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ZenthosDev/!svn/ver/5/src/client/MapleCharacterUtil.java
+END
+MapleWeaponType.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ZenthosDev/!svn/ver/1/src/client/MapleWeaponType.java
+END
+MapleInventoryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ZenthosDev/!svn/ver/1/src/client/MapleInventoryType.java
+END
+MapleMount.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ZenthosDev/!svn/ver/8/src/client/MapleMount.java
+END
+PetCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ZenthosDev/!svn/ver/1/src/client/PetCommand.java
+END
+MapleJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ZenthosDev/!svn/ver/8/src/client/MapleJob.java
+END
+MapleDisease.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ZenthosDev/!svn/ver/1/src/client/MapleDisease.java
+END
+MapleBuffStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ZenthosDev/!svn/ver/6/src/client/MapleBuffStat.java
+END
+MapleClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ZenthosDev/!svn/ver/8/src/client/MapleClient.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ZenthosDev/!svn/ver/4/src/client/Item.java
+END

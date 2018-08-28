@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/ZenthosDev/!svn/ver/8/src/server
+END
+ShutdownServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ZenthosDev/!svn/ver/5/src/server/ShutdownServer.java
+END
+DueyPackages.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ZenthosDev/!svn/ver/1/src/server/DueyPackages.java
+END
+MakerItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ZenthosDev/!svn/ver/1/src/server/MakerItemFactory.java
+END
+MapleShopItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ZenthosDev/!svn/ver/5/src/server/MapleShopItem.java
+END
+MapleStatEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ZenthosDev/!svn/ver/8/src/server/MapleStatEffect.java
+END
+CashItemInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ZenthosDev/!svn/ver/1/src/server/CashItemInfo.java
+END
+ClanHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ZenthosDev/!svn/ver/1/src/server/ClanHolder.java
+END
+TimerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ZenthosDev/!svn/ver/8/src/server/TimerManager.java
+END
+AutoRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ZenthosDev/!svn/ver/8/src/server/AutoRegister.java
+END
+MapleTrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ZenthosDev/!svn/ver/3/src/server/MapleTrade.java
+END
+TimerManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ZenthosDev/!svn/ver/1/src/server/TimerManagerMBean.java
+END
+MapleShopFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ZenthosDev/!svn/ver/1/src/server/MapleShopFactory.java
+END
+MaplePortal.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ZenthosDev/!svn/ver/5/src/server/MaplePortal.java
+END
+MapleStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ZenthosDev/!svn/ver/5/src/server/MapleStorage.java
+END
+AntiCheats.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ZenthosDev/!svn/ver/8/src/server/AntiCheats.java
+END
+CashItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ZenthosDev/!svn/ver/8/src/server/CashItemFactory.java
+END
+MapleShop.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ZenthosDev/!svn/ver/6/src/server/MapleShop.java
+END
+MapleInventoryManipulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ZenthosDev/!svn/ver/8/src/server/MapleInventoryManipulator.java
+END
+PortalFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ZenthosDev/!svn/ver/1/src/server/PortalFactory.java
+END
+MapleSquad.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ZenthosDev/!svn/ver/1/src/server/MapleSquad.java
+END
+MapleSquadType.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ZenthosDev/!svn/ver/1/src/server/MapleSquadType.java
+END
+MapleItemInformationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ZenthosDev/!svn/ver/8/src/server/MapleItemInformationProvider.java
+END
+MTSItemInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ZenthosDev/!svn/ver/1/src/server/MTSItemInfo.java
+END

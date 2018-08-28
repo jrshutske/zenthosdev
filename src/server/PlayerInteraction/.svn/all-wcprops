@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ZenthosDev/!svn/ver/8/src/server/PlayerInteraction
+END
+IPlayerInteractionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ZenthosDev/!svn/ver/8/src/server/PlayerInteraction/IPlayerInteractionManager.java
+END
+MaplePlayerShopItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ZenthosDev/!svn/ver/1/src/server/PlayerInteraction/MaplePlayerShopItem.java
+END
+MapleMiniGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ZenthosDev/!svn/ver/1/src/server/PlayerInteraction/MapleMiniGame.java
+END
+MaplePlayerShop.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ZenthosDev/!svn/ver/1/src/server/PlayerInteraction/MaplePlayerShop.java
+END
+PlayerInteractionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ZenthosDev/!svn/ver/1/src/server/PlayerInteraction/PlayerInteractionManager.java
+END
+HiredMerchant.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ZenthosDev/!svn/ver/3/src/server/PlayerInteraction/HiredMerchant.java
+END

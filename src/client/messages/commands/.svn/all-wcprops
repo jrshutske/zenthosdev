@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ZenthosDev/!svn/ver/8/src/client/messages/commands
+END
+GM.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ZenthosDev/!svn/ver/8/src/client/messages/commands/GM.java
+END
+Donator.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ZenthosDev/!svn/ver/6/src/client/messages/commands/Donator.java
+END
+Extras.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ZenthosDev/!svn/ver/8/src/client/messages/commands/Extras.java
+END
+Admins.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ZenthosDev/!svn/ver/6/src/client/messages/commands/Admins.java
+END
+PlayerCommands.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ZenthosDev/!svn/ver/8/src/client/messages/commands/PlayerCommands.java
+END
